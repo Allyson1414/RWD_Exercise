@@ -1,0 +1,65 @@
+/* Allyson Carter 2/19/2026 */
+
+/* Resize images */
+section img#pokemon{
+    width: 250px;
+    height: 175px
+}
+
+section img#idol_precure{
+width: 200px;
+height: 250px
+}
+
+section img#sailormoon{
+width: 150px;
+height: 200px;
+}
+
+/* Style for figcaptions */
+section figcaption{
+    font-size: large;
+    font-style: oblique;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium';
+    color: blueviolet;
+}
+
+/* Style for copyright */
+body footer{
+    font-size: smaller;
+    color: black;
+}
+
+/* Style for unordered list*/
+nav ul li{
+    font-family: 'Franklin Gothic Medium';
+    font-size: large;
+    color: blue;
+    background-color: antiquewhite;
+    text-align: left;
+}
+
+/* Style for header 1 */
+body h1{
+    font-size: 200%;
+    font-family: 'Franklin Gothic Medium';
+    color: blueviolet;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+/* Style for heading 2 */
+body h2{
+    font-size: 120%;
+    font-family: 'Franklin Gothic Medium';
+    color: blueviolet;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+/* Style the form */
+body section form fieldset{
+    color: black;
+    background-color: antiquewhite;
+}
